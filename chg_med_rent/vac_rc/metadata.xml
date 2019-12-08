@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20161212</CreaDate><CreaTime>22534800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20161212" Time="225348">Reclassify vac Value "-100 -0.01 1;-0.01 0.01 2;0.01 82.456100463867188 3" F:\Dropbox\chg_med_rent\vac_rc DATA</Process></lineage></DataProperties></Esri></metadata>
