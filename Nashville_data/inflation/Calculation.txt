@@ -1,0 +1,3 @@
+[(241.729  - 214.537) / 214.537] * 100  = 12.67%
+
+(([med_rent_15.csv.med_rent]- [med_rent_09.csv.med_rent]*1.1267)/([med_rent_09.csv.med_rent]*1.1267))*100
